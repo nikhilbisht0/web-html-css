@@ -60,14 +60,14 @@
     text-align: center;
     transform: translateY(-50%);
     color: #fff;
-    top: 55px;
+    top: 75px;
     right: 60px;  
 }
 
 .content h1 {
-    font-size: 30px;
+    font-size: 20px;
     margin-top: 20px;
-    font-weight: 500;
+    font-weight: 100;
 }
 
 .button {
